@@ -1,6 +1,6 @@
 ## Skills
 ### Programming Languages
-![](https://skillicons.dev/icons?i=html,css,jquery,js)
+![](https://skillicons.dev/icons?i=html,css,sass,jquery,js)
 
 ### Flameworks and Library
 ![](https://skillicons.dev/icons?i=wordpress)
