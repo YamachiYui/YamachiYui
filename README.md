@@ -14,6 +14,11 @@
 ![](https://skillicons.dev/icons?i=docker)
 ![](https://skillicons.dev/icons?i=vscode)
 
+### Design
+![](https://skillicons.dev/icons?i=xd)
+![](https://skillicons.dev/icons?i=ps)
+![](https://skillicons.dev/icons?i=figma)
+
 <!---
 YamachiYui/YamachiYui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
